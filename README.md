@@ -12,7 +12,9 @@ This app simulates a POS software tool that records details of transactions afte
 •	The following code circled in red represents each category that was implemented with a text box.
 •	Within each Linear Layout section, ‘TextView’ and ‘EditText’ are implemented accordingly. In this application, within the “TextView”, all ‘layout_width’ and ‘layout_hieght’ are structured the same. The only difference is the “TextView” portion because the labels of the name, background color, and font color in the columns are different from top to bottom sections in the app. 
 
-[2]()
+
+![Blank_textRow-Demo](https://user-images.githubusercontent.com/20470279/103329115-54197080-4a29-11eb-8b27-5e1e3d11abbd.gif)
+
 
 •	The portion of code circled in red from activity_main.xml in the demo corresponds with the display layout circled in red from the Android app emulator. The ‘EditText’ attribute is configured the same for all three rows, “Product Name”, “Price”, and “Qty”, which are located at the top half of this app. These are the blank text rows.
 
