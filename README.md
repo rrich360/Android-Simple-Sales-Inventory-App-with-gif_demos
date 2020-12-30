@@ -1,7 +1,7 @@
 # Android-Simple-Sales-Inventory-App-with-Gif_Demo
 This app simulates a POS software tool that records details of transactions after every purchase while calculating the subtotal and balance after payment has been submitted.
 
-# Edit in spacing 
+# Edits in spacing 
 ![Design-Demo](https://user-images.githubusercontent.com/20470279/103328046-3fd37480-4a25-11eb-9a8f-b6f0f21d6cdc.gif)
 
 
@@ -35,9 +35,14 @@ The columns are used to store specific details of purchase history that could be
 
 
  # FUNCTIONALITY
-					[5]()
+ # Edits in decimal format
+![Functionality-Demo](https://user-images.githubusercontent.com/20470279/103328307-62b25880-4a26-11eb-8d18-766fd3c335ca.gif)
 
-•	This app has ability to take in input for tracking purchases via calculating Balance after amount of payment has been submitted then storing details of the purchase in the table below the add button.
-•	Type in the name of the product you are buying. Next, enter the price of the product and the amount of that product for quantity.
-•	Click Add. The item is stored. Next type in amount you would like to pay for item. The balance is automatically updated. 
-•	Continue until all items have been purchased.
+
+•	This app was designed to function as an POS system that tracks purchases over a period of time. 
+•	The basic functions are as follows: 
+•	Type in the name of the product you are buying. 
+•       Next, enter the price of the product and the quantity of that product.
+•	Click Add. The item is added to the table below.
+•       Next type in amount you would like to pay for the item. The balance is automatically  calculated. 
+•	Continue until all items have been purchased. Transaction is complete and the cycle continues.
