@@ -22,9 +22,10 @@ This app simulates a POS software tool that records details of transactions afte
 ![navyBlue_textBox-Demo](https://user-images.githubusercontent.com/20470279/103329521-f9811400-4a2a-11eb-8067-9c843b350ed0.gif)
 
 
-•	The portion of code circled in blue from activity_main.xml in the demo corresponds with the display of the layout circled in blue from the Android app emulator. The ‘EditText’ attribute is configured the same for the following categories located in the center section of this app. These are the navy-blue text boxes. The text font color is white.
+•	The portion of code circled in blue from activity_main.xml in the demo corresponds with the display of the layout circled in blue from the Android app emulator. The ‘EditText’ attribute is configured the same for the following categories located in the center section of this app. These are the navy-blue text boxes. The font color of the text is white.
 
-[4]()
+![Table-Row-Demo](https://user-images.githubusercontent.com/20470279/103329587-4369fa00-4a2b-11eb-920c-ecbba02cd34c.gif)
+
 
 •	The portion of code being highlighted in the demo from activity_main.xml corresponds with the display of the layout circled in green on the Android app emulator. The table below the ‘Add-button’ was designed to store details of each transaction in purchase history. The ‘Add’ button was designed and placed in the center of the app to  add items from each transaction. 
 
