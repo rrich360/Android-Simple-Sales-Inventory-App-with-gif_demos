@@ -18,7 +18,9 @@ This app simulates a POS software tool that records details of transactions afte
 
 •	The portion of code circled in red from activity_main.xml in the demo corresponds with the display layout circled in red from the Android app emulator. The ‘EditText’ attribute is configured the same for all three rows, “Product Name”, “Price”, and “Qty”, which are located at the top half of this app. These are the blank text rows.
 
-[3]()
+
+![navyBlue_textBox-Demo](https://user-images.githubusercontent.com/20470279/103329521-f9811400-4a2a-11eb-8067-9c843b350ed0.gif)
+
 
 •	The portion of code circled in blue from activity_main.xml in the demo corresponds with the display of the layout circled in blue from the Android app emulator. The ‘EditText’ attribute is configured the same for the following categories located in the center section of this app. These are the navy-blue text boxes. The text font color is white.
 
