@@ -1,7 +1,9 @@
 # Android-Simple-Sales-Inventory-App-with-Gif_Demo
 This app simulates a POS software tool that records details of transactions after every purchase while calculating the subtotal and balance after payment has been submitted.
 
-[1]()
+# Edit in spacing 
+![Design-Demo](https://user-images.githubusercontent.com/20470279/103328046-3fd37480-4a25-11eb-9a8f-b6f0f21d6cdc.gif)
+
 
  # DESIGN
 
