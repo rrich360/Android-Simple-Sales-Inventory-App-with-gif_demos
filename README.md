@@ -44,6 +44,7 @@ The columns are used to store specific details of purchase history that could be
 ![Functionality-Demo](https://user-images.githubusercontent.com/20470279/103328307-62b25880-4a26-11eb-8d18-766fd3c335ca.gif)
 
 
+•	The Gif demo above is an example of how to format the subtotal and balance attributes such that the amounts are rounded to two decimal places, which provides a cleaner and more efficient output for the info. on the reciept.
 •	This app was designed to function as an POS system that tracks purchases over a period of time. 
 •	The basic functions are as follows: 
 •	Type in the name of the product you are buying. 
