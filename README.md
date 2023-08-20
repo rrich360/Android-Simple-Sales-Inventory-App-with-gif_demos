@@ -4,7 +4,7 @@ This app simulates a POS software tool that records details of transactions afte
 ![Functionality-Demo](https://user-images.githubusercontent.com/20470279/103328307-62b25880-4a26-11eb-8d18-766fd3c335ca.gif)
 
 # DESIGN
-# Edits in spacing 
+# Implementing spacing for Activity Layout 
 ![Design-Demo](https://user-images.githubusercontent.com/20470279/103328046-3fd37480-4a25-11eb-9a8f-b6f0f21d6cdc.gif)
 
 •	Activity_main.xml is where you design the content and layout of the app. Activity_main.xml in Android mirrors the way CSS is used to design the content structure in HTML. 
